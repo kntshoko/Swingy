@@ -1,0 +1,4 @@
+pawn,pawn,1,0,1,1,1
+bishop,bishop,1,0,2,1,3
+knight,knight,1,0,1,3,2
+rook,rook,1,0,3,2,2
